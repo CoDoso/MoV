@@ -26,4 +26,4 @@ def game_init_():
 
 
 if __name__ == "__main__":
-    bot.run('MTEwOTUwNjkwODk3MDI5OTQ3Mg.GlNp9v.BmW5-KOHEVULjIbZZak4OPCeBRCV4PBVhoZN20')
+    bot.run('DISCORD TOKEN')
