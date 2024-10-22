@@ -80,7 +80,7 @@ base_Heide = \
             },
             "Gear": {
                 "Gear Stars": 0,
-                "Weapon": ["Uncommon", "Wooden", "Bow"],
+                "Weapon": ["Uncommon", "Bronze", "Bow"],
                 "Armour": ["Common", "Leather", "Gambeson"],
                 "Artifacts": None,
             },
